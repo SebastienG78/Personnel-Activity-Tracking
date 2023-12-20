@@ -1,1 +1,1 @@
-# Personnel-Activity-Tracking
+Implementation of a dashboard for monitoring personnel activity.
